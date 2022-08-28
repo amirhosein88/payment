@@ -8,7 +8,8 @@ import java.util.function.Predicate;
 public class TransactionRepositoryImpl implements TransactionRepository {
     @Override
     public boolean add(Transaction transaction) throws IllegalArgumentException {
-        // TODO: Implement
+
+        //List<Transaction> transactions = transaction.
         return false;
     }
 
